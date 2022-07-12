@@ -1,8 +1,8 @@
 
+import aviatorblack from '../assets/images/transparent/1.2.png';
+import aviatorbrownmetal from '../assets/images/transparent/2.2.png';
+import aviatorgreenmetal from '../assets/images/transparent/3.2.png';
 import aviatorgold from '../assets/images/transparent/805289602057_0000.png';
-import aviatorblack from '../assets/images/transparent/black.png';
-import aviatorbrownmetal from '../assets/images/transparent/brownmetal.png';
-import aviatorgreenmetal from '../assets/images/transparent/greenmetal.png';
 import aviatorgreymetal from '../assets/images/transparent/greymetal.png';
 import aviatorgunmetal from '../assets/images/transparent/gunmetal.png';
 import aviatorredmetal from '../assets/images/transparent/redmetal.png';

@@ -66,7 +66,7 @@ const App = () => {
       <View style={styles.containerAR}>
         <RNCamera
           style={styles.preview}
-          type={RNCamera.Constants.Type.back}
+          type={RNCamera.Constants.Type.front}
           flashMode={RNCamera.Constants.FlashMode.on}
         />
         <View style={styles.gestureView}>
@@ -192,7 +192,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   imagePreview: {
-    width: 45,
+    width: 200,
     height: 70,
   },
   bottomView: {
@@ -217,7 +217,7 @@ const styles = StyleSheet.create({
     alignItems: "center"
   },
   gestureImage: {
-    width: 150,
+    width: 400,
     height: 200,
   }
 });
