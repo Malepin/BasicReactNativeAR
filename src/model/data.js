@@ -1,11 +1,12 @@
 
-import aviatorgold from '../src/assets/images/transparent/805289602057_0000.png';
-import aviatorblack from '../src/assets/images/transparent/black.png';
-import aviatorbrownmetal from '../src/assets/images/transparent/brown metal.png';
-import aviatorgreenmetal from '../src/assets/images/transparent/green metal.png';
-import aviatorgreymetal from '../src/assets/images/transparent/grey metal.png';
-import aviatorgunmetal from '../src/assets/images/transparent/gunmetal.png';
-import aviatorredmetal from '../src/assets/images/transparent/redmetal.png';
+import aviatorgold from '../assets/images/transparent/805289602057_0000.png';
+import aviatorblack from '../assets/images/transparent/black.png';
+import aviatorbrownmetal from '../assets/images/transparent/brownmetal.png';
+import aviatorgreenmetal from '../assets/images/transparent/greenmetal.png';
+import aviatorgreymetal from '../assets/images/transparent/greymetal.png';
+import aviatorgunmetal from '../assets/images/transparent/gunmetal.png';
+import aviatorredmetal from '../assets/images/transparent/redmetal.png';
+import productShowcase from '../assets/images/transparent/redmetal.png';
 
 
 export const data = {
